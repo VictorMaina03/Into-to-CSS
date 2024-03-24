@@ -1,2 +1,2 @@
-# Into-to-CSS
+# Intro-to-CSS
 assignment 
